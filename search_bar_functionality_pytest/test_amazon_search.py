@@ -1,5 +1,5 @@
 
-from selenium_helper import  SeleniumHandler
+from search_bar_functionality_pytest.selenium_helper import  SeleniumHandler
 
 
 def test_search_bar():
